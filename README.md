@@ -9,7 +9,7 @@
 
 ## Features
 
-- **Human vs Human Mode:** Enjoy the classic two-player chess game with all standard rules.
+- **Human vs Human Mode:** A classic two-player chess game with all standard rules.
 - **Human vs AI Mode:** Challenge an AI that uses advanced search algorithms (Minimax with Alpha-Beta pruning) to evaluate moves and predict the optimal strategy to win.
 - **Minimax Algorithm:** The AI analyzes potential moves and responses several steps ahead to select the best one.
 - **Alpha-Beta Pruning:** Enhances the performance of the Minimax algorithm by pruning branches that are unlikely to influence the final decision, leading to faster move calculation.
